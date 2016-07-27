@@ -1,10 +1,13 @@
 ## Programming the Serial port on a Linux System using C and termios API
+<img src="http://xanthium.in/sites/default/files/site-images/serial-prog-linux/serial-programming-in-linux-tutorials.jpg">
+--------------------------------------------------------------------------------------------------------------------------------------
+Code for programming the serial port on a Linux System using **ANSI C** and **Terminos API**.
+The codes can be used for transmitting and receiving data from an x86 Linux PC and a Microcontroller deevelopment board through 3 wire Serial Link or RS232 Port. 
 
-This repo contains code for transmitting and receiving characters (Strings) serially between an x86 Linux PC and a Microcontroller (MSP430G2553 on Launchpad).
+<a href = http://xanthium.in/Serial-Port-Programming-on-Linux>You can find the **original Tutorial** here </a>
 
-<img src="http://s25.postimg.org/b6qc8sbz3/Serial_Port_Write.jpg" alt ="Screenshot of the serial port programming code running on Linux">
+<img src="http://xanthium.in/sites/default/files/site-images/serial-prog-linux/SerialPort-Write.jpeg" alt ="Screenshot of the serial port programming code running on Linux">
 
-Full code explanation along with screenshots can be <a href = http://xanthium.in/Serial-Port-Programming-on-Linux> found here on the xanthium website </a>
 
 The Microcontroller and PC are connected in null modem configuration using  3 signals (TX,RX and Ground).
 
