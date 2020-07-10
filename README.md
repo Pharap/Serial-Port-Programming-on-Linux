@@ -9,7 +9,7 @@ The codes can be used for transmitting and receiving data from an x86 Linux PC a
 <img src="http://xanthium.in/sites/default/files/site-images/serial-prog-linux/SerialPort-Write.jpeg" alt ="Screenshot of the serial port programming code running on Linux">
 
 --------------------------------------------------------------------------------------------------------------------------------------
-##Features
+## Features
 
 - PC side is written in **ANSI C** using **Terminos API** to Communicate with the Serial Port.
 - Transmission and Reception are kept seperate in different C files so that user can easily understand the mechanisms involved.
@@ -20,7 +20,7 @@ The codes can be used for transmitting and receiving data from an x86 Linux PC a
 - The Hardware used is MSP430G2553 on Launch pad development board.
 
 --------------------------------------------------------------------------------------------------------------------------------------
-##Code Explanation
+## Code Explanation
 
 - **serial.c** - A simple C file which opens a connection to Linux Serial Port and closes it. 
 
@@ -31,14 +31,14 @@ The codes can be used for transmitting and receiving data from an x86 Linux PC a
   - <img src = "http://xanthium.in/sites/default/files/site-images/serial-prog-linux/SerialPort-Write.jpeg"/>
 
  -------------------------------------------------------------------------------------------------------------------------------------
-##Circuit 
+## Circuit 
 
 - <a href ="http://xanthium.in/Serial-Port-Programming-on-Linux">Available  in the original Tutorial</a>
 
 <img src ="http://xanthium.in/sites/default/files/site-images/serial-prog-linux/MSP430-Connected-to-USB2SERIAL_Marked.jpg"/>
 
 -------------------------------------------------------------------------------------------------------------------------------------
-##Hardware used 
+## Hardware used 
 
 - <img src="http://www.xanthium.in/sites/default/files/site-images/product-page/usb_to_rs485_converter_250px.jpg"/>
    - **USB to RS485/RS232/Serial Converter**
