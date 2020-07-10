@@ -1,14 +1,18 @@
 # Programming the Serial port on a Linux System using C and termios API
+
 <img src="http://xanthium.in/sites/default/files/site-images/serial-prog-linux/serial-programming-in-linux-tutorials.jpg">
 --------------------------------------------------------------------------------------------------------------------------------------
+
 Code for programming the serial port on a Linux System using **ANSI C** and **Terminos API**.
 The codes can be used for transmitting and receiving data from an x86 Linux PC and a Microcontroller deevelopment board through 3 wire Serial Link or RS232 Port. 
 
-###<a href = http://xanthium.in/Serial-Port-Programming-on-Linux>You can find the **original Tutorial** here </a>
+
+### <a href = http://xanthium.in/Serial-Port-Programming-on-Linux>You can find the **original Tutorial** here </a>
 
 <img src="http://xanthium.in/sites/default/files/site-images/serial-prog-linux/SerialPort-Write.jpeg" alt ="Screenshot of the serial port programming code running on Linux">
 
 --------------------------------------------------------------------------------------------------------------------------------------
+
 ## Features
 
 - PC side is written in **ANSI C** using **Terminos API** to Communicate with the Serial Port.
