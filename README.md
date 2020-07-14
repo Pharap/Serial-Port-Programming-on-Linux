@@ -1,15 +1,20 @@
 # Programming the Serial port on a Linux System using C and termios API
 
 <img src="http://xanthium.in/sites/default/files/site-images/serial-prog-linux/serial-programming-in-linux-tutorials.jpg">
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 Code for programming the serial port on a Linux System using **ANSI C** and **Terminos API**.
 The codes can be used for transmitting and receiving data from an x86 Linux PC and a Microcontroller deevelopment board through 3 wire Serial Link or RS232 Port. 
 
 
-### <a href = http://xanthium.in/Serial-Port-Programming-on-Linux>You can find the **original Tutorial** here </a>
+## Online Tutorial
 
-<img src="http://xanthium.in/sites/default/files/site-images/serial-prog-linux/SerialPort-Write.jpeg" alt ="Screenshot of the serial port programming code running on Linux">
+- [Serial Port Programming on Linux using Termios API Tutorial](http://xanthium.in/Serial-Port-Programming-on-Linux)
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+ <img src="http://xanthium.in/sites/default/files/site-images/serial-prog-linux/SerialPort-Write.jpeg" alt ="Screenshot of the serial port programming code running on Linux">
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,6 +40,7 @@ The codes can be used for transmitting and receiving data from an x86 Linux PC a
   - <img src = "http://xanthium.in/sites/default/files/site-images/serial-prog-linux/SerialPort-Write.jpeg"/>
 
  -------------------------------------------------------------------------------------------------------------------------------------
+ 
 ## Circuit 
 
 - <a href ="http://xanthium.in/Serial-Port-Programming-on-Linux">Available  in the original Tutorial</a>
@@ -42,6 +48,7 @@ The codes can be used for transmitting and receiving data from an x86 Linux PC a
 <img src ="http://xanthium.in/sites/default/files/site-images/serial-prog-linux/MSP430-Connected-to-USB2SERIAL_Marked.jpg"/>
 
 -------------------------------------------------------------------------------------------------------------------------------------
+
 ## Hardware used 
 
 - <img src="http://www.xanthium.in/sites/default/files/site-images/product-page/usb_to_rs485_converter_250px.jpg"/>
