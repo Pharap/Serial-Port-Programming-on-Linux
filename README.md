@@ -4,8 +4,8 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-Code for programming the serial port on a Linux System using **ANSI C** and **Terminos API**.
-The codes can be used for transmitting and receiving data from an x86 Linux PC and a Microcontroller deevelopment board through 3 wire Serial Link or RS232 Port. 
+- Code for programming the serial port on a Linux System using **ANSI C** and **Terminos API**.
+- The codes can be used for transmitting and receiving data from an x86 Linux PC and a Microcontroller development board through 3 wire Serial Link(TXD,RXD,GND) or RS232 Port. 
 
 
 ## Online Tutorial
